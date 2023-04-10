@@ -1,2 +1,3 @@
-# music-player
-Music Player with very rudimentary functionality stylize with scss
+# rock-band
+
+First Scss project & first javascript project.
